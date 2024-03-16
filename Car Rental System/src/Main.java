@@ -13,6 +13,7 @@ class Car{
         this.brand=brand;
         this.basePricePerDay=basePricePerDay;
         isAvailable=true;
+        
     }
     public String getCardId(){
         return cardId;
